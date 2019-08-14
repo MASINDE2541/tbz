@@ -31,13 +31,13 @@ WebUI.delay(3)
 
 WebUI.click(findTestObject('Book appointment details/input_time'))
 
-WebUI.setText(findTestObject('Book appointment details/input_first name'), 'eric')
+WebUI.setText(findTestObject('Book appointment details/input_first name'), firstname)
 
-WebUI.sendKeys(findTestObject('Book appointment details/input_lastname'), 'wafula')
+WebUI.sendKeys(findTestObject('Book appointment details/input_lastname'), lastname)
 
-WebUI.sendKeys(findTestObject('Book appointment details/input_email address'), 'wanjiku.tezzasol@gmail.com')
+WebUI.sendKeys(findTestObject('Book appointment details/input_email address'), email)
 
-WebUI.sendKeys(findTestObject('Book appointment details/input_mobile no'), '072-568-5213')
+WebUI.sendKeys(findTestObject('Book appointment details/input_mobile no'), mobile)
 
 WebUI.click(findTestObject('Book appointment details/click on d.o.b of patient'))
 

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//select[@class='ui-datepicker-year']//option[8]</value>
+         <value>//select[@class='ui-datepicker-year']//option[5]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,6 +17,6 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//select[@class='ui-datepicker-year']//option[8]</value>
+      <value>//select[@class='ui-datepicker-year']//option[5]</value>
    </webElementProperties>
 </WebElementEntity>

@@ -5,4 +5,32 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>d10d93c5-27a4-49ba-ad65-40ee58f08f19</testCaseGuid>
+   <variable>
+      <defaultValue>'eric\r\n'</defaultValue>
+      <description></description>
+      <id>5701818b-939d-480a-a097-3b84a54d7905</id>
+      <masked>false</masked>
+      <name>firstname</name>
+   </variable>
+   <variable>
+      <defaultValue>'wafula'</defaultValue>
+      <description></description>
+      <id>a5505168-ebd3-4c1e-afb3-175291ba3ce4</id>
+      <masked>false</masked>
+      <name>lastname</name>
+   </variable>
+   <variable>
+      <defaultValue>'072-568-5213'</defaultValue>
+      <description></description>
+      <id>ab699d5e-8933-4bd0-ad7d-664491f30478</id>
+      <masked>false</masked>
+      <name>mobile</name>
+   </variable>
+   <variable>
+      <defaultValue>'ericmasindey@gmail.com'</defaultValue>
+      <description></description>
+      <id>089aa458-073b-4d92-9de4-5fd2eb60e824</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
 </TestCaseEntity>
